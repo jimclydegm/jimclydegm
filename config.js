@@ -2,7 +2,6 @@
 
 module.exports = {
   url: 'https://jimclydegm.com',
-  pathPrefix: '/jimclydemonge',
   title: 'Jim Clyde Monge',
   subtitle: 'Personal blog',
   copyright: '© All rights reserved.',
