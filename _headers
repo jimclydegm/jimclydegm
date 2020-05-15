@@ -21,11 +21,11 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-categories-list-template-js-c4c4e9b8c5ae794cc680.js
   Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-page-template-js-a880af90f7ef507ba8d8.js
+  Cache-Control: public, max-age=31536000, immutable
 /643651a62fb35a9bb4f20061cb1f214a352d7976-b6929fbcca166ec09424.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-post-template-js-9f8c00cce6a3b797751f.js
-  Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-page-template-js-a880af90f7ef507ba8d8.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-tag-template-js-135fe33762e7b549f5c0.js
   Cache-Control: public, max-age=31536000, immutable
@@ -100,6 +100,40 @@
   Link: </jimclydemonge/component---src-templates-not-found-template-js-6f46a8e386abea8cd27d.js>; rel=preload; as=script
   Link: </jimclydemonge/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </jimclydemonge/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
+/jimclydemonge/pages/about/
+  Link: </jimclydemonge/webpack-runtime-498d4b2337d0b680b1f7.js>; rel=preload; as=script
+  Link: </jimclydemonge/styles-8636a280cbc61d53ad10.js>; rel=preload; as=script
+  Link: </jimclydemonge/framework-98d3acaa9261c489e046.js>; rel=preload; as=script
+  Link: </jimclydemonge/532a2f07-5c94c7a8c333252841c3.js>; rel=preload; as=script
+  Link: </jimclydemonge/app-d0cda394629cda7db1eb.js>; rel=preload; as=script
+  Link: </jimclydemonge/styles-8636a280cbc61d53ad10.js>; rel=preload; as=script
+  Link: </jimclydemonge/cd95ea5cbd2c605f26db819f07999610c9ff4310-50929cd62f13a96e119c.js>; rel=preload; as=script
+  Link: </jimclydemonge/component---src-templates-page-template-js-a880af90f7ef507ba8d8.js>; rel=preload; as=script
+  Link: </jimclydemonge/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </jimclydemonge/page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/jimclydemonge/pages/contacts/
+  Link: </jimclydemonge/webpack-runtime-498d4b2337d0b680b1f7.js>; rel=preload; as=script
+  Link: </jimclydemonge/styles-8636a280cbc61d53ad10.js>; rel=preload; as=script
+  Link: </jimclydemonge/framework-98d3acaa9261c489e046.js>; rel=preload; as=script
+  Link: </jimclydemonge/532a2f07-5c94c7a8c333252841c3.js>; rel=preload; as=script
+  Link: </jimclydemonge/app-d0cda394629cda7db1eb.js>; rel=preload; as=script
+  Link: </jimclydemonge/styles-8636a280cbc61d53ad10.js>; rel=preload; as=script
+  Link: </jimclydemonge/cd95ea5cbd2c605f26db819f07999610c9ff4310-50929cd62f13a96e119c.js>; rel=preload; as=script
+  Link: </jimclydemonge/component---src-templates-page-template-js-a880af90f7ef507ba8d8.js>; rel=preload; as=script
+  Link: </jimclydemonge/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </jimclydemonge/page-data/pages/contacts/page-data.json>; rel=preload; as=fetch; crossorigin
+/jimclydemonge/posts/the-origins-of-social-stationery-lettering
+  Link: </jimclydemonge/webpack-runtime-498d4b2337d0b680b1f7.js>; rel=preload; as=script
+  Link: </jimclydemonge/styles-8636a280cbc61d53ad10.js>; rel=preload; as=script
+  Link: </jimclydemonge/framework-98d3acaa9261c489e046.js>; rel=preload; as=script
+  Link: </jimclydemonge/532a2f07-5c94c7a8c333252841c3.js>; rel=preload; as=script
+  Link: </jimclydemonge/app-d0cda394629cda7db1eb.js>; rel=preload; as=script
+  Link: </jimclydemonge/styles-8636a280cbc61d53ad10.js>; rel=preload; as=script
+  Link: </jimclydemonge/cd95ea5cbd2c605f26db819f07999610c9ff4310-50929cd62f13a96e119c.js>; rel=preload; as=script
+  Link: </jimclydemonge/643651a62fb35a9bb4f20061cb1f214a352d7976-b6929fbcca166ec09424.js>; rel=preload; as=script
+  Link: </jimclydemonge/component---src-templates-post-template-js-9f8c00cce6a3b797751f.js>; rel=preload; as=script
+  Link: </jimclydemonge/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </jimclydemonge/page-data/posts/the-origins-of-social-stationery-lettering/page-data.json>; rel=preload; as=fetch; crossorigin
 /jimclydemonge/posts/perfecting-the-art-of-perfection
   Link: </jimclydemonge/webpack-runtime-498d4b2337d0b680b1f7.js>; rel=preload; as=script
   Link: </jimclydemonge/styles-8636a280cbc61d53ad10.js>; rel=preload; as=script
@@ -124,30 +158,6 @@
   Link: </jimclydemonge/component---src-templates-post-template-js-9f8c00cce6a3b797751f.js>; rel=preload; as=script
   Link: </jimclydemonge/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </jimclydemonge/page-data/posts/a-brief-history-of-typography/page-data.json>; rel=preload; as=fetch; crossorigin
-/jimclydemonge/posts/the-origins-of-social-stationery-lettering
-  Link: </jimclydemonge/webpack-runtime-498d4b2337d0b680b1f7.js>; rel=preload; as=script
-  Link: </jimclydemonge/styles-8636a280cbc61d53ad10.js>; rel=preload; as=script
-  Link: </jimclydemonge/framework-98d3acaa9261c489e046.js>; rel=preload; as=script
-  Link: </jimclydemonge/532a2f07-5c94c7a8c333252841c3.js>; rel=preload; as=script
-  Link: </jimclydemonge/app-d0cda394629cda7db1eb.js>; rel=preload; as=script
-  Link: </jimclydemonge/styles-8636a280cbc61d53ad10.js>; rel=preload; as=script
-  Link: </jimclydemonge/cd95ea5cbd2c605f26db819f07999610c9ff4310-50929cd62f13a96e119c.js>; rel=preload; as=script
-  Link: </jimclydemonge/643651a62fb35a9bb4f20061cb1f214a352d7976-b6929fbcca166ec09424.js>; rel=preload; as=script
-  Link: </jimclydemonge/component---src-templates-post-template-js-9f8c00cce6a3b797751f.js>; rel=preload; as=script
-  Link: </jimclydemonge/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </jimclydemonge/page-data/posts/the-origins-of-social-stationery-lettering/page-data.json>; rel=preload; as=fetch; crossorigin
-/jimclydemonge/posts/humane-typography-in-the-digital-age
-  Link: </jimclydemonge/webpack-runtime-498d4b2337d0b680b1f7.js>; rel=preload; as=script
-  Link: </jimclydemonge/styles-8636a280cbc61d53ad10.js>; rel=preload; as=script
-  Link: </jimclydemonge/framework-98d3acaa9261c489e046.js>; rel=preload; as=script
-  Link: </jimclydemonge/532a2f07-5c94c7a8c333252841c3.js>; rel=preload; as=script
-  Link: </jimclydemonge/app-d0cda394629cda7db1eb.js>; rel=preload; as=script
-  Link: </jimclydemonge/styles-8636a280cbc61d53ad10.js>; rel=preload; as=script
-  Link: </jimclydemonge/cd95ea5cbd2c605f26db819f07999610c9ff4310-50929cd62f13a96e119c.js>; rel=preload; as=script
-  Link: </jimclydemonge/643651a62fb35a9bb4f20061cb1f214a352d7976-b6929fbcca166ec09424.js>; rel=preload; as=script
-  Link: </jimclydemonge/component---src-templates-post-template-js-9f8c00cce6a3b797751f.js>; rel=preload; as=script
-  Link: </jimclydemonge/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </jimclydemonge/page-data/posts/humane-typography-in-the-digital-age/page-data.json>; rel=preload; as=fetch; crossorigin
 /jimclydemonge/posts/the-birth-of-movable-type
   Link: </jimclydemonge/webpack-runtime-498d4b2337d0b680b1f7.js>; rel=preload; as=script
   Link: </jimclydemonge/styles-8636a280cbc61d53ad10.js>; rel=preload; as=script
@@ -160,7 +170,7 @@
   Link: </jimclydemonge/component---src-templates-post-template-js-9f8c00cce6a3b797751f.js>; rel=preload; as=script
   Link: </jimclydemonge/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </jimclydemonge/page-data/posts/the-birth-of-movable-type/page-data.json>; rel=preload; as=fetch; crossorigin
-/jimclydemonge/pages/contacts/
+/jimclydemonge/posts/humane-typography-in-the-digital-age
   Link: </jimclydemonge/webpack-runtime-498d4b2337d0b680b1f7.js>; rel=preload; as=script
   Link: </jimclydemonge/styles-8636a280cbc61d53ad10.js>; rel=preload; as=script
   Link: </jimclydemonge/framework-98d3acaa9261c489e046.js>; rel=preload; as=script
@@ -168,20 +178,10 @@
   Link: </jimclydemonge/app-d0cda394629cda7db1eb.js>; rel=preload; as=script
   Link: </jimclydemonge/styles-8636a280cbc61d53ad10.js>; rel=preload; as=script
   Link: </jimclydemonge/cd95ea5cbd2c605f26db819f07999610c9ff4310-50929cd62f13a96e119c.js>; rel=preload; as=script
-  Link: </jimclydemonge/component---src-templates-page-template-js-a880af90f7ef507ba8d8.js>; rel=preload; as=script
+  Link: </jimclydemonge/643651a62fb35a9bb4f20061cb1f214a352d7976-b6929fbcca166ec09424.js>; rel=preload; as=script
+  Link: </jimclydemonge/component---src-templates-post-template-js-9f8c00cce6a3b797751f.js>; rel=preload; as=script
   Link: </jimclydemonge/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </jimclydemonge/page-data/pages/contacts/page-data.json>; rel=preload; as=fetch; crossorigin
-/jimclydemonge/pages/about/
-  Link: </jimclydemonge/webpack-runtime-498d4b2337d0b680b1f7.js>; rel=preload; as=script
-  Link: </jimclydemonge/styles-8636a280cbc61d53ad10.js>; rel=preload; as=script
-  Link: </jimclydemonge/framework-98d3acaa9261c489e046.js>; rel=preload; as=script
-  Link: </jimclydemonge/532a2f07-5c94c7a8c333252841c3.js>; rel=preload; as=script
-  Link: </jimclydemonge/app-d0cda394629cda7db1eb.js>; rel=preload; as=script
-  Link: </jimclydemonge/styles-8636a280cbc61d53ad10.js>; rel=preload; as=script
-  Link: </jimclydemonge/cd95ea5cbd2c605f26db819f07999610c9ff4310-50929cd62f13a96e119c.js>; rel=preload; as=script
-  Link: </jimclydemonge/component---src-templates-page-template-js-a880af90f7ef507ba8d8.js>; rel=preload; as=script
-  Link: </jimclydemonge/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </jimclydemonge/page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </jimclydemonge/page-data/posts/humane-typography-in-the-digital-age/page-data.json>; rel=preload; as=fetch; crossorigin
 /jimclydemonge/tag/design
   Link: </jimclydemonge/webpack-runtime-498d4b2337d0b680b1f7.js>; rel=preload; as=script
   Link: </jimclydemonge/styles-8636a280cbc61d53ad10.js>; rel=preload; as=script
