@@ -11,7 +11,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Posts',
       path: '/'
     },
     {
@@ -29,15 +29,15 @@ module.exports = {
     bio: 'Full time software engineer.',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      facebook: 'jimclydegmonge',
+      telegram: '',
+      twitter: 'jimclydego',
+      github: 'jimclydegm',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
-      line: '',
+      linkedin: 'jim-clyde-monge',
+      instagram: 'jimmonge',
+      line: 'jimclydegm',
       gitlab: '',
       weibo: '',
       codepen: '',
